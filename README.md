@@ -28,6 +28,20 @@ I focus heavily on operational excellence, secure telemetry, and sovereign archi
   </a>
 </p>
 
+### 🏆 Certifications & Credentials
+
+* **Microsoft Azure:** Solutions Architect Expert (AZ-305) | Security Engineer Associate (AZ-500) | Administrator Associate (AZ-104).
+* **Amazon Web Services:** AWS Certified Solutions Architect - Professional.
+* **Enterprise & Government:** GCC (Government Commercial Cloud) Certified.
+* **Infrastructure & Process:** Windows Server Hybrid Core Infrastructure (AZ-800/801) | ITIL® v4 Foundation.
+
+### 📈 Enterprise Impact by the Numbers
+
+* **Cloud Migration & Cost Ops:** Successfully migrated **60+ legacy applications** to Azure, driving a **30% reduction** in operational costs and boosting platform availability by **40%**.
+* **Infrastructure Scale:** Administered and optimized resilient hybrid infrastructures comprising **1,000+ enterprise servers** and **900+ virtual machines** across VMware, XenServer, and AWS.
+* **Reliability & SLAs:** Orchestrated zero-disruption patching cycles across massive server fleets, consistently maintaining a **99.99% uptime SLA**.
+* **Security & Compliance:** Implemented governance frameworks achieving **100% compliance** with strict regulatory standards including IM8, SOC2, HIPAA, and GDPR.
+
 ### 📊 GitHub Analytics
 
 <!-- Auto-updating GitHub Stat Cards -->
