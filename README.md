@@ -24,7 +24,7 @@ I focus heavily on operational excellence, secure telemetry, and sovereign archi
 <!-- Animated Skill Icons (Automatically fetches attractive SVGs) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,terraform,gitlab,ansible,kubernetes,argocd,centos,redhat,circleci,graphana,,docker,linux,windows,powershell,bash,python,github" alt="AbuTalha Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,terraform,gitlab,ansible,kubernetes,argocd,redhat,circleci,grafana,docker,linux,windows,powershell,bash,python,github" alt="AbuTalha Tech Stack" />
   </a>
 </p>
 
