@@ -8,16 +8,16 @@
   </a>
 </p>
 
-Welcome to my **LearningGallery**! I am an Enterprise Cloud Solutions Architect passionate about building scalable, secure, and highly available infrastructures[span_0](start_span)[span_0](end_span). With over 14 years in the trenches, my journey has evolved from deep datacenter operations to leading multi-cloud (Azure & AWS) transformations for highly regulated enterprise and government environments[span_1](start_span)[span_1](end_span). 
+Welcome to my **LearningGallery**! I am an Enterprise Cloud Solutions Architect passionate about building scalable, secure, and highly available infrastructures. With over 14 years in the trenches, my journey has evolved from deep datacenter operations to leading multi-cloud (Azure & AWS) transformations for highly regulated enterprise and government environments.
 
 I focus heavily on operational excellence, secure telemetry, and sovereign architecture. My current environments strictly utilize Azure Monitor Private Link Scopes (AMPLS) alongside Log Analytics Workspaces to ensure absolute data privacy and robust observability. 
 
 ### 🚀 What I Bring to the Table
 
-* **Multi-Cloud Mastery:** Architecting resilient, cost-optimized solutions across Microsoft Azure and AWS, strictly adhering to Well-Architected Frameworks[span_2](start_span)[span_2](end_span).
-* **Infrastructure as Code (IaC):** Automating the entire operational lifecycle using Terraform, Ansible, ARM Templates, and CloudFormation to eliminate manual toil[span_3](start_span)[span_3](end_span).
-* **Security & Governance:** Designing zero-trust landing zones and ensuring uncompromising compliance with frameworks like IM8, CIS, SOC2, HIPAA, and GDPR[span_4](start_span)[span_4](end_span).
-* **AI & Operational Innovation:** Integrating Agentic AI ecosystems (Ollama, LangChain, Claude) to streamline operations, enhance SRE capabilities, and automate BAU tasks[span_5](start_span)[span_5](end_span).
+* **Multi-Cloud Mastery:** Architecting resilient, cost-optimized solutions across Microsoft Azure and AWS, strictly adhering to Well-Architected Frameworks.
+* **Infrastructure as Code (IaC):** Automating the entire operational lifecycle using Terraform, Ansible, ARM Templates, and CloudFormation to eliminate manual toil.
+* **Security & Governance:** Designing zero-trust landing zones and ensuring uncompromising compliance with frameworks like IM8, CIS, SOC2, HIPAA, and GDPR.
+* **AI & Operational Innovation:** Integrating Agentic AI ecosystems (Ollama, LangChain, Claude) to streamline operations, enhance SRE capabilities, and automate BAU tasks.
 
 ### 🛠️ Technical Arsenal
 
