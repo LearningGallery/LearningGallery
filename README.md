@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Typing Effect -->
 <h1 align="center">Hi there, I'm AbuTalha! 👋</h1>
-<h3 align="center">Enterprise Cloud Solutions Architect | DevOps Specialist | Tech Innovator</h3>
+<h3 align="center">Enterprise Cloud Solutions Architect | DevOps Specialist | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
